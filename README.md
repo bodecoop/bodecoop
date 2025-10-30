@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on: The insane about of homework and school projects.
-I'm currently learning: How trees grow to make a dynamic 3D tree model generator!
-I'm looking to collaborate on: Anything using the newest technologies, especially with AI/ML, I'm always looking to learn new things!
-Ask me about: Running! I'm currently training for Cross Country but my real love is for track.
+- I'm currently working on: The insane about of homework and school projects.
+- I'm currently learning: How trees grow to make a dynamic 3D tree model generator!
+- I'm looking to collaborate on: Anything using the newest technologies, especially with AI/ML, I'm always looking to learn new things!
+- Ask me about: Running! I'm currently training for Cross Country but my real love is for track.
+- Fun Fact: I love making storytelling videos about all the cool places I travel to.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bode-cooper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cooperbode05) 
